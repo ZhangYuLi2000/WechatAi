@@ -17,4 +17,6 @@ pip install -r requirements.txt
 - [讯飞大模型申请地址](https://www.xfyun.cn/)
 - [文心千帆申请地址](https://cloud.baidu.com/wenxin.html)
 
+因为使用的微信自动化框架需要客户端，所以需要先替换微信版本为 [3.6.0.18 👉 点击瞎子啊](https://github.com/tom-snow/wechat-windows-versions/releases/download/v3.6.0.18/WeChatSetup-3.6.0.18.exe)
+
 开启之后会监听所有微信消息，并自动回复所有消息。本项目仅供娱乐和学习使用~
